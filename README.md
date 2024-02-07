@@ -1,6 +1,6 @@
 # Fronteira Eficiente de Markowitz
 
-Esse trabalho consiste na formulação de um código em Python capaz de simular diversas carteiras de investimentos, e dentre essas, procura pelas carteiras mais eficientes seundo a fronteira de Markowitz
+Esse trabalho consiste na formulação de um código em Python capaz de simular diversas carteiras de investimentos, e dentre essas, procura pelas carteiras mais eficientes seundo a fronteira de Markowitz.
 
 # Visualização
 
